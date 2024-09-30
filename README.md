@@ -1,4 +1,4 @@
-# Plant Breeder & Data analyst
+# software engineer
 ### _Current Position - Genetics Intern - Syngenta_ 
 
 #### Summary: 
