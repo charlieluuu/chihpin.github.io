@@ -12,16 +12,11 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 - **M.Sc.**, Computer Science	| <a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a> (_Sep 2023 - Dec 2024_)	 			        		
 - **B.Sc.**, Electrical Engineering | <a href="https://eng.thu.edu.tw/" target="_blank">Tunghai University</a> (_Sep 2014 - Jun 2018_)
 
-**Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
-- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
-- Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
-- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
-
 ## 💼 Work experience 
-**Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
-- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
-- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
-- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
+**Server Assurance engineer @ <a href="https://www.inventec.com/en" target="_blank">Inventec</a> (_Jun 2021 - Aug 2023_)**
+- Experience in full-cycle cloud server validation to mass production.
+- Strong operating system knowledge of Linux, and Windows with Intel/AMD platform, and validating server and its peripheral components such as CPU, memory, NIC card, GPU and other storage drives for reliability, compatibility and performance. 
+- Experience working cooperatively with cross-functional staff and clients to solve issues and meet project requirements.
 
 ## 💻 Programming and data analysis skills
 - Proficient in full stack development of **R packages** using modular coding practices.
