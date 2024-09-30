@@ -1,29 +1,16 @@
-# software engineer
-### _Current Position - Genetics Intern - Syngenta_ 
+# Software engineer
 
 #### Summary: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
-#### Publication Statistics:
-Cumulative Impact Factor: **34.171**
-
-Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
+a recent MSc Computer Science graduate from the University of Birmingham. My fascination with software development began while I was working as a server assurance engineer at a server manufacturer company. This experience sparked a profound interest, leading me to pursue a master's degree in computer science. Then Integrating what I have learned into my career feels like a natural and exciting path forward, allowing me to apply knowledge in practical situations.
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
+- Programming Languages: _Proficient in R, Python, Linux command line; experience with CSS, HTML and JavaScript._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
   
-## 🎓 Education
-- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
-- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
-- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
-
-## 🔬 Research Experience
-**Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
-- Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
-- Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
-- Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
+## 🎓 Education		  		
+- **M.Sc.**, Computer Science	| <a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a> (_Sep 2023 - Dec 2024_)	 			        		
+- **B.Sc.**, Electrical Engineering | <a href="https://eng.thu.edu.tw/" target="_blank">Tunghai University</a> (_Sep 2014 - Jun 2018_)
 
 **Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
 - Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
