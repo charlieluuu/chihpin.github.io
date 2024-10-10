@@ -5,7 +5,7 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with CSS, HTML and JavaScript._
+- Programming Languages: _Proficient in Python, Linux command line; experience with CSS, HTML and JavaScript._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
   
 ## 🎓 Education		  		
@@ -17,21 +17,26 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 - Experience in full-cycle cloud server validation to mass production.
 - Strong operating system knowledge of Linux, and Windows with Intel/AMD platform, and validating server and its peripheral components such as CPU, memory, NIC card, GPU and other storage drives for reliability, compatibility and performance. 
 - Experience working cooperatively with cross-functional staff and clients to solve issues and meet project requirements.
+**IT intern @ <a href="https://www.siemens.com/global/en.html" target="_blank">Siemens</a> (_Nov 2018 - Feb 2019_)**
+- Participated in data analysis, interpreting data using statistical techniques, writing and delivering reports, maintaining databases, and providing assistance to staff and management.
 
 ## 💻 Programming and data analysis skills
-- Proficient in full stack development of **R packages** using modular coding practices.
+- Proficient in full stack development using modular coding practices.
 - Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
 - **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
 - **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
 - Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
 - **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
 
-**Additional Skills:**
+**Project experience:**
   
-- Git/GitHub for version control and collaborative coding.
-- High performance computing on clusters for scalable data analysis.
-- Bioconductor for analyzing genomic/transcriptomic experiments.
-- Workflow automation to enhance reproducibility and to faster workflow. 
+##Travel Platform Integration for generating Personalised Destination Project
+- Build a web-based platform to generate the most relevant destination based on user preferences.
+- Knowledge of data cleaning, dataset and database management.
+- Full stack development including Python and Flask for the back end, HTML, CSS and JavaScript for the front end and SQLite to manage the data.
+- Algorithm methodology to calculate the most similar place to the user such as TF-IDF and cosine similarity. 
+##Hackathon
+- Two-day coding event for developing several small games to entertain users through the Python pygame library, including turtlelike-to-cross, Snake etc.
 
 ## 🌱 R Packages developed
 ### ✅ PBGeno
