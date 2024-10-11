@@ -16,7 +16,7 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 **Server Assurance engineer @ <a href="https://www.inventec.com/en" target="_blank">Inventec</a> (_Jun 2021 - Aug 2023_)**
 - Experience in full-cycle cloud server validation to mass production.
 - Strong operating system knowledge of Linux, and Windows with Intel/AMD platform, and validating server and its peripheral components such as CPU, memory, NIC card, GPU and other storage drives for reliability, compatibility and performance. 
-- Experience working cooperatively with cross-functional staff and clients to solve issues and meet project requirements.
+- Experience working cooperatively with cross-functional staff and clients to solve issues and meet project requirements.<br>
 **IT intern @ <a href="https://www.siemens.com/global/en.html" target="_blank">Siemens</a> (_Nov 2018 - Feb 2019_)**
 - Participated in data analysis, interpreting data using statistical techniques, writing and delivering reports, maintaining databases, and providing assistance to staff and management.
 
