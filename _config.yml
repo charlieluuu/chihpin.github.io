@@ -4,8 +4,6 @@ logo: PHOTO.png # Use a relative path to logo image
 
 description: degree with both computer science and electrical engineering. 
 
-show_downloads: true # Fix spelling
-
 theme: jekyll-theme-minimal 
 
 plugins:
