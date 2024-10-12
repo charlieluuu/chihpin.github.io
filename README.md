@@ -1,4 +1,4 @@
-# Software engineer
+# Software engineer job seeker
 
 #### Summary: 
 a recent MSc Computer Science graduate from the University of Birmingham. My fascination with software development began while I was working as a server assurance engineer at a server manufacturer company. This experience sparked a profound interest, leading me to pursue a master's degree in computer science. Then Integrating what I have learned into my career feels like a natural and exciting path forward, allowing me to apply knowledge in practical situations.
