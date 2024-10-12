@@ -25,15 +25,15 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 **IT intern @ <a href="https://www.siemens.com/global/en" target="_blank">Siemens</a> (_Nov 2018 - Feb 2019_)**
 - Participated in data analysis, interpreting data using statistical techniques, writing and delivering reports, maintaining databases, and providing assistance to staff and management.
 
-**💻 Project experience:**
+## 💻 Project experience 
 
-## Travel Platform Integration for generating Personalised Destination Project
+** Travel Platform Integration for generating Personalised Destination Project **
 - Build a web-based platform to generate the most relevant destination based on user preferences.
 - Knowledge of data cleaning, dataset and database management.
 - Full stack development including Python and Flask for the back end, HTML, CSS and JavaScript for the front end and SQLite to manage the data.
 - Algorithm methodology to calculate the most similar place to the user such as TF-IDF and cosine similarity.
 
-## Hackathon
+** Hackathon **
 - Two-day coding event for developing several small games to entertain users through the Python pygame library, including turtlelike-to-cross, Snake etc.
 
 ##  Extracurricular Activities
