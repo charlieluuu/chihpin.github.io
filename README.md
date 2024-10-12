@@ -5,12 +5,12 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in ## Python.
-- FRameworks: Flask
-- Database: SQLite
-- Web: HTML, CSS and JavaScript
-- development tools: Linux, Git, GitHub, GitLab, CICD and UML
-- Experience in agile, SDLC development, data mining and analysis, natural language processing algorithms.
+- Programming Languages: _Proficient in **Python**.
+- Frameworks: **Flask**
+- Database: **SQLite**
+- Web: **HTML, CSS and JavaScript**
+- development tools: **Linux, Git, GitHub, GitLab, CICD and UML**
+- Experience in **agile, SDLC development, data mining and analysis, natural language processing algorithms.**
   
 ## 🎓 Education		  		
 - **M.Sc.**, Computer Science	| <a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a> (_Sep 2023 - Dec 2024_)	 			        		
@@ -19,7 +19,7 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 ## 💼 Work experience 
 **Server Assurance engineer @ <a href="https://www.inventec.com/en" target="_blank">Inventec</a> (_Jun 2021 - Aug 2023_)**
 - Experience in full-cycle cloud server validation to mass production.
-- Strong operating system knowledge of Linux, and Windows with Intel/AMD platform, and validating server and its peripheral components such as CPU, memory, NIC card, GPU and other storage drives for reliability, compatibility and performance. 
+- Strong operating system knowledge of **Linux, and Windows with Intel/AMD platform**, and validating server and its peripheral components such as CPU, memory, NIC card, GPU and other storage drives for reliability, compatibility and performance. 
 - Experience working cooperatively with cross-functional staff and clients to solve issues and meet project requirements.<br>
 
 **IT intern @ <a href="https://www.siemens.com/global/en" target="_blank">Siemens</a> (_Nov 2018 - Feb 2019_)**
@@ -30,7 +30,7 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 **Travel Platform Integration for generating Personalised Destination Project**
 - Build a web-based platform to generate the most relevant destination based on user preferences.
 - Knowledge of data cleaning, dataset and database management.
-- Full stack development including Python and Flask for the back end, HTML, CSS and JavaScript for the front end and SQLite to manage the data.
+- Full stack development including **Python and Flask** for the back end, **HTML, CSS and JavaScript** for the front end and **SQLite** to manage the data.
 - Algorithm methodology to calculate the most similar place to the user such as TF-IDF and cosine similarity.
 
 **Hackathon**
