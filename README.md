@@ -5,7 +5,11 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in Python, Linux command line; expertise with CSS, HTML and JavaScript._
+- Programming Languages: _Proficient in Python.
+- FRameworks: Flask
+- Database: SQLite
+- Web: HTML, CSS and JavaScript
+- development tools: Linux, Git, GitHub, GitLab, CICD and UML
 - Experience in agile, SDLC development, data mining and analysis, natural language processing algorithms.
   
 ## 🎓 Education		  		
