@@ -27,13 +27,13 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 
 ## 💻 Project experience 
 
-** Travel Platform Integration for generating Personalised Destination Project **
+**Travel Platform Integration for generating Personalised Destination Project**
 - Build a web-based platform to generate the most relevant destination based on user preferences.
 - Knowledge of data cleaning, dataset and database management.
 - Full stack development including Python and Flask for the back end, HTML, CSS and JavaScript for the front end and SQLite to manage the data.
 - Algorithm methodology to calculate the most similar place to the user such as TF-IDF and cosine similarity.
 
-** Hackathon **
+**Hackathon**
 - Two-day coding event for developing several small games to entertain users through the Python pygame library, including turtlelike-to-cross, Snake etc.
 
 ##  Extracurricular Activities
