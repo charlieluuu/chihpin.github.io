@@ -6,7 +6,7 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, Linux command line; expertise with CSS, HTML and JavaScript._
-- Experience in agile, SDLC development, data mining and analysis, algorithms._
+- Experience in agile, SDLC development, data mining and analysis, natural language processing algorithms.
   
 ## 🎓 Education		  		
 - **M.Sc.**, Computer Science	| <a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a> (_Sep 2023 - Dec 2024_)	 			        		
@@ -22,6 +22,7 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 - Participated in data analysis, interpreting data using statistical techniques, writing and delivering reports, maintaining databases, and providing assistance to staff and management.
 
 **💻 Project experience:**
+
 ##Travel Platform Integration for generating Personalised Destination Project
 - Build a web-based platform to generate the most relevant destination based on user preferences.
 - Knowledge of data cleaning, dataset and database management.
