@@ -3,10 +3,5 @@ title: Charlie (Chihpin) Lu.  # Add a space after the period
 logo: pic.png # Use a relative path to logo image 
 
 description: degree with both computer science and electrical engineering. 
-
-theme: jekyll-theme-minimal 
-
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
  
 email: chihpinjobhunt@gmail.com # Allow visitors to contact you
