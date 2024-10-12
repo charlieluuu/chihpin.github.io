@@ -5,8 +5,8 @@ a recent MSc Computer Science graduate from the University of Birmingham. My fas
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in Python, Linux command line; experience with CSS, HTML and JavaScript._
-- Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
+- Programming Languages: _Proficient in Python, Linux command line; expertise with CSS, HTML and JavaScript._
+- Experience in agile, SDLC development, data mining and analysis, algorithms._
   
 ## 🎓 Education		  		
 - **M.Sc.**, Computer Science	| <a href="https://www.birmingham.ac.uk/" target="_blank">University of Birmingham</a> (_Sep 2023 - Dec 2024_)	 			        		
