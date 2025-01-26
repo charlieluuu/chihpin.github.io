@@ -53,4 +53,4 @@ the hospital staff.
 
 | **Name**     | Chihpin Lu | 
 | **E-mail**   | chihpinjobhunt@gmail.com | 
-| **LinkedIn** | <a href="https://www.linkedin.com/in/chihpin-lu-093aa2193/" target="_blank">Visit Page</a> | 
+| **LinkedIn** | <a href="https://www.linkedin.com/in/charlie-chihpin-lu-093aa2193/" target="_blank">Visit Page</a> | 
